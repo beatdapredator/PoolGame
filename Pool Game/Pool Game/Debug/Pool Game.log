@@ -1,0 +1,7 @@
+﻿  Main.cpp
+d:\year 2\physics in 3d computer graphics\assignment 2\pool game\pool game\pool game\main.cpp(58): warning C4091: 'static ': ignored on left of 'buffer' when no variable is declared
+d:\year 2\physics in 3d computer graphics\assignment 2\pool game\pool game\pool game\main.cpp(59): warning C4091: 'static ': ignored on left of 'object' when no variable is declared
+d:\year 2\physics in 3d computer graphics\assignment 2\pool game\pool game\pool game\main.cpp(412): warning C4305: '+=': truncation from 'double' to 'float'
+d:\year 2\physics in 3d computer graphics\assignment 2\pool game\pool game\pool game\main.cpp(418): warning C4305: '-=': truncation from 'double' to 'float'
+  Pool Game.vcxproj -> D:\Year 2\Physics in 3D computer graphics\Assignment 2\Pool Game\Pool Game\Debug\Pool Game.exe
+  Pool Game.vcxproj -> D:\Year 2\Physics in 3D computer graphics\Assignment 2\Pool Game\Pool Game\Debug\Pool Game.pdb (Partial PDB)
